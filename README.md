@@ -7,7 +7,9 @@ The project's intention is to motivate people to plant their own fruits, greens,
 
 - teach people (especially, but not limited to kids) on how they can grow their own food at home;
 
-- help to reduce the quantity of pesticide used to make the plants grow, making the quality of life increase, even if just by a little bit!
+- Encourage people to have more healthy and balanced meals
+
+- help reduce the quantity of pesticide used to make the plants grow, making life quality increase, even if just by a little bit!
 
 This project covers 2 of the 17 United Nations Sustainable Development Goals:
 
